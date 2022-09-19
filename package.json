@@ -1,0 +1,13 @@
+{
+  "name": "Columbia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christopher Jeffery",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "surge src"
+  },
+  "devDependencies": {
+    "surge": "^0.23.1"
+  }
+}
