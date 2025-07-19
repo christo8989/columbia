@@ -6,12 +6,12 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-		"build": "vite build",
-		"preview": "vite preview",
+    "build": "vite build",
+    "preview": "vite preview",
     "deploy": "surge src"
   },
   "devDependencies": {
-    "surge": "^0.23.1",
+    "surge": "^0.24.6",
     "vite": "^7.0.5"
   }
 }
